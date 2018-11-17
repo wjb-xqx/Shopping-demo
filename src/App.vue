@@ -22,7 +22,7 @@
 				<span class="mui-icon mui-icon-gear"></span>
 				<span class="mui-tab-label">设置</span>
 			</a>
-		</nav>
+	</nav>
    <h1>666</h1>
   </div>
 </template>
